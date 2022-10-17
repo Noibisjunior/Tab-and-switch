@@ -13,14 +13,14 @@
   border: 1px solid black;
   border-right: 0;
   border-bottom: 0;
-  flex-grow: 1;
+  flex-grow: 2;
 }
 .buttons a:last-child {
   border-right: 1px solid red;
 }
 
 .buttons a:active {
-  background-color: white;
+  background-color: orange;
   color: white;
 }
 .panels .panel {
